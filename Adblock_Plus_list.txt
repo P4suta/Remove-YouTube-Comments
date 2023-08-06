@@ -1,0 +1,5 @@
+[Adblock Plus 2.0]
+! Remove YouTube Comments https://www.youtube.com
+www.youtube.com###comments > .ytd-comments.style-scope
+www.youtube.com###comments-button > .ytd-reel-player-overlay-renderer.style-scope
+www.youtube.com###chat
