@@ -1,4 +1,9 @@
 [Adblock Plus 2.0]
+! Title: Remove-YouTube-Comments
+! Homepage: https://www.yasunobusakashita.jp/youtubenokomentowopcdefei-biao-shi-nisuru/
+!
+! 最終更新 2023/08/07 8:52
+!
 ! Remove YouTube Comments https://www.youtube.com
 www.youtube.com###comments > .ytd-comments.style-scope
 www.youtube.com###comments-button > .ytd-reel-player-overlay-renderer.style-scope
