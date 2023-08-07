@@ -2,7 +2,7 @@
 
 YouTubeのコメントを除去するフィルターです
 
-[フィルタを購読する](https://subscribe.adblockplus.org/?location=https://p4suta.github.io/Remove-YouTube-Comments/Adblock_Plus_list.txt) ([中身を見る](https://p4suta.github.io/Remove-YouTube-Comments/Adblock_Plus_list.txt))
+[フィルタを購読する](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/P4suta/Remove-YouTube-Comments/main/Adblock_Plus_list.txt) ([中身を見る](https://p4suta.github.io/Remove-YouTube-Comments/Adblock_Plus_list.txt))
 
 誤爆報告などはIssuesか[ブログ](https://www.yasunobusakashita.jp/youtubenokomentowopcdefei-biao-shi-nisuru/)へどうぞ
 
